@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/jpedro-cf/jpedro-cf/main/github-header-image.png" />
+<img src="https://raw.githubusercontent.com/jpedro-cf/jpedro-cf/main/github-header-image.png" style="width: 100%" />
 
 ## Skills
 
