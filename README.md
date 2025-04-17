@@ -2,7 +2,7 @@
 
 <h3>I'm a software engineer interested in web development, microservices, and distributed systems.</h3>
 
-<p>
+<p align="center">
   <a href="https://www.linkedin.com/in/jpedro-cf/">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
