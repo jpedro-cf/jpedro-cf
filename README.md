@@ -1,6 +1,6 @@
 <h1 align="center">Hey there, I'm João 👋</h1>
 
-<h3>I'm a software engineer interested in web development, microservices, and distributed systems.</h3>
+<h3 align="center">I'm a software engineer interested in web development, microservices, and distributed systems.</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/jpedro-cf/">
