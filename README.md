@@ -18,6 +18,7 @@ web development, microservices, and distributed systems.</h3>
 -   🎨 **Outside of code:** Martial arts 🥋, music 🎧, movies 🎬, and a drawings ✏️.
 
 <p>&nbsp;  </p>
+<p>&nbsp;  </p>
 </div>
 
 ---
