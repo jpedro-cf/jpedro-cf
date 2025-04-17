@@ -13,7 +13,7 @@ web development, microservices, and distributed systems.</h3>
 <img align="right" height="160" width="250" src="typing-gif.gif" style="margin-left:2rem">
 
 -   🎯 **Current focus:** Diving deeper into software engineering — building things that matter.
--   🌍 **Open to:** Collaborations in web development, especially front-end magic or full-stack ideas.
+-   🌍 **Open to:** Collaborations in web development.
 -   🛠️ **Tech I love working with:** Java, Python, React, Node.js, and always exploring more.
 -   🎨 **Outside of code:** Martial arts 🥋, music 🎧, movies 🎬, and a drawings ✏️.
 
