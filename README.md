@@ -16,6 +16,7 @@
 - 🌍 **Open to:** Collaborations in web development.  
 - 🛠️ **Tech I love working with:** Java, Python, React, Node.js, and always exploring more.  
 - 🎨 **Outside of code:** Martial arts 🥋, music 🎧, movies 🎬, and drawings ✏️.  
+<p>&nbsp;</p>
 
 ---
 
