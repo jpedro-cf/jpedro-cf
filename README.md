@@ -10,7 +10,7 @@ web development, microservices, and distributed systems.</h3>
 
 <p>&nbsp;  </p>
 <div>
-<img align="right" height="160" width="250" src="typing-gif.gif" style="margin-left:2rem">
+<img align="right" height="150" width="250" src="typing-gif.gif" style="margin-left:2rem">
 
 -   🎯 **Current focus:** Diving deeper into software engineering — building things that matter.
 -   🌍 **Open to:** Collaborations in web development.
