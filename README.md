@@ -8,10 +8,7 @@
 <h3 align="left">  I'm an software engineer who is interested in 
 web development, microservices, and distributed systems.</h3>
 
----
-
 <div>
-<p >&nbsp;  </p>
 <img align="right" height="160" width="250" src="typing-gif.gif" style="margin-left:2rem">
 
 -   🎯 **Current focus:** Diving deeper into software engineering — building things that matter.
